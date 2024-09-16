@@ -1,6 +1,4 @@
-## Laravel Job Board
-
-This is an open-source job board application powered by Laravel, originally built for a [video tutorial series](https://www.youtube.com/watch?v=4ZrOXG2B0dU&list=PL36CGZHZJqsWs907QwJrWSbN2g2NNPn6w&index=1) on YouTube. This goal is to let you self-host your own job board website, similar to larajobs.com or remoteok.io.
+## Job Board
 
 Included currently are features like:
 
